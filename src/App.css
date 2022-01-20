@@ -1,0 +1,129 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root {
+  --primeBackground: #282c34;
+  --primeColor: #fff;
+}
+body {
+  background: var(--primeBackground);
+}
+a {
+  text-decoration: none;
+}
+section {
+  margin-top: 6em;
+}
+article {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.App {
+  text-align: center;
+  background: var(--primeBackground);
+  color: var(--primeColor);
+}
+.app__heading {
+  padding: 15px;
+  font-size: 30px;
+  font-family: "Lato", sans-serif;
+  background: rebeccapurple;
+  position: fixed;
+  width: 100%;
+  top: 0;
+}
+.player__heading {
+  color: #61dafb;
+  margin-bottom: 8px;
+}
+.player {
+  display: grid;
+  place-items: center;
+  min-width: 27%;
+  min-height: 108px;
+  border: 1px solid #6a6a6a;
+  margin: 8px;
+  padding: 0 14px;
+  border-radius: 5px;
+}
+.player:hover {
+  background: #3b414c;
+}
+.player h5 {
+  padding-bottom: 1em;
+  color: #fff;
+}
+.player p {
+  color: #bdbdbd;
+  margin-bottom: 2em;
+}
+.btn {
+  justify-content: center;
+  align-items: center;
+}
+.btn button {
+  padding: 0 12px;
+}
+.btn span {
+  margin: 0 8px;
+}
+.bonsai {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.bonsai__container {
+  width: 220px;
+  height: 100px;
+  background: rgb(181, 230, 185);
+  color: #333;
+  margin: 0 auto;
+  margin-bottom: 8px;
+  padding: 12px;
+}
+.bonsai h5,
+.bonsai h1 {
+  margin-bottom: 8px;
+}
+.create {
+  width: 80%;
+  height: 300px;
+  margin: 0 auto;
+}
+.create form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  width: 38%;
+  margin: 0 auto;
+}
+input[type="text"] {
+  width: 80%;
+  margin-bottom: 8px;
+}
+article {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.artist {
+  max-width: 50%;
+  background: darkslateblue;
+  border: 2px solid grey;
+  border-radius: 5px;
+  padding: 8px;
+  margin: 1em auto;
+}
+.artist img {
+  margin: 1em auto;
+}

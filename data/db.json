@@ -1,0 +1,83 @@
+{
+  "ballers": [     {
+    "name": "Mohamad Salah",
+    "team": "Liverpool",
+    "imageSRC": "media/salah.jpg",
+    "id": 10,
+    "bio": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint earum ratione hic."
+  },
+     {
+    "name":"N'Golo Kante",
+    "team":"Chelsea",
+    "imageSRC": "media/kante.jpg",
+    "id": 13,
+    "bio": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint earum ratione hic."
+  },
+    {
+      "name": "Romelu Lukaku",
+      "team": "Chelsea",
+      "imageSRC": "media/lukaku.jpg",
+      "id": 3,
+      "bio": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint earum ratione hic."
+    },
+    {
+      "name": "Benardo Silva",
+      "team": "Manchester City",
+      "imageSRC": "media/silva.jpg",
+      "id": 5,
+      "bio": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint earum ratione hic."
+    },
+    {
+      "name": "Paul Pogba",
+      "team": "Manchester United",
+      "imageSRC": "media/pogba.jpg",
+      "id": 13,
+      "bio": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint earum ratione hic."
+    },
+    {
+      "name": " Reece James",
+      "team": "Chelsea",
+      "imageSRC": "media/james.jpg",
+      "id": 6,
+      "bio": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint earum ratione hic."
+    },
+    {
+      "name": "Cristiano Ronaldo",
+      "team": "Manchester United",
+      "imageSRC": "media/ronaldo.jpg",
+      "id": 7,
+      "bio": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint earum ratione hic."
+    },
+    {
+      "name": "Toni Rudiger",
+      "team": "Chelsea",
+      "imageSRC": "media/rudiger.jpg",
+      "id": "9",
+      "bio": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint earum ratione hic."
+    },
+
+    {
+      "name":"Allan Saint-Maximin",
+      "team":"Newcastle",
+      "imageSRC": "media/maximin.jpg",
+      "id": 14,
+      "bio": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint earum ratione hic."
+    },
+
+    {
+      "name": "Jorginho",
+      "team": "Chelsea",
+      "imageSRC": "media/jorginho.jpg",
+      "id": 12,
+      "bio": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint earum ratione hic."
+    },
+    {
+      "name": "Jamie Vardy",
+      "team": "Leicester City",
+      "imageSRC": "/media/vardy.jpg",
+      "id": 1,
+      "bio": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint earum ratione hic."
+    }
+
+  ]
+}
